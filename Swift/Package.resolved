@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "asn1swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tikhop/ASN1Swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "277cbea813fecb15b714501ca06869c11bbd54b7"
+      }
+    }
+  ],
+  "version" : 2
+}
